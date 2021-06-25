@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.elmakers</groupId>
     <artifactId>exp4j</artifactId>
-    <version>0.5-SNAPSHOT</version>
+    <version>1.0</version>
     <name>exp4j</name>
     <description>A simple mathematical expression evaluator for java.</description>
     <properties>
@@ -108,6 +108,13 @@
         <contributor>
             <name>Wilton Risenhoover</name>
             <url>https://fintel.io/</url>
+            <roles>
+                <role>developer</role>
+            </roles>
+        </contributor>
+        <contributor>
+            <name>Nathan Wolf</name>
+            <url>https://elmakers.com/</url>
             <roles>
                 <role>developer</role>
             </roles>
